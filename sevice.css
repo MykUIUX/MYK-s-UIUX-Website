@@ -1,0 +1,143 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.space-between{
+    margin: 0 15px 0 15px;
+}
+
+.landing{
+    width: 100%;
+    height: 350px;
+    background-image: linear-gradient(rgb(228, 89, 112),rgb(199, 67, 89),rgb(117, 28, 43),rgb(73, 13, 23));
+    text-align: center;
+}
+
+.myk-box{
+    text-align: center;
+    padding-top:100px;
+    color: white;
+}
+
+hr{
+    width: 30%;
+    border:none;
+    height: 30px;
+    background-color: white;
+    padding-bottom: 2px;
+}
+
+.bt-txt{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.bt-heading-text{
+    color: rgb(228, 89, 112);
+}
+
+h1{
+    font-family: 'Exo 2', sans-serif;
+    color: white;
+}
+
+.h2-top{
+    margin-top: 3%;
+}
+
+.serv-head{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.service-heading{
+    color: rgb(228, 89, 112);
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-background{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+
+#service{
+    width: 100%;
+    height: 630px;
+    background-color: black;
+    
+}
+
+.service-image1{
+    padding-top: 6%;
+    padding-left: 65%;
+    position: relative;
+    bottom: 240px;
+    
+   
+}
+.image1-style{
+    width: 400px;
+    height: 250px;
+}
+
+.service-image2{
+    padding-top: 4%;
+    padding-left: 65%;
+    position: relative;
+    bottom: 410px;
+}
+  
+.image2-style{
+    width: 400px;
+    height: 250px;
+}
+
+p{
+    color: #DC3D57;
+}
+
+.service1-text{
+    width: 60%;
+    margin-left: 2%;
+    padding-top: 45px; 
+}
+
+
+.service2-text{
+    width: 60%;
+    margin-left: 2%;
+    position: relative;
+    bottom: 210px;
+}
+
+
+
+.foot{
+    height: 130px;
+    margin-top: 5%;
+    background-image: linear-gradient(rgb(228, 89, 112),rgb(199, 67, 89),rgb(117, 28, 43),rgb(73, 13, 23));
+}
+
+h4{
+    padding-top:2% ;
+    text-align: center;
+    color: white;
+}
+
+h6{
+    padding-top:2% ;
+    text-align: center;
+    color: white;
+}
+
+.pwhite{
+    color: black;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-family: 'Exo 2', sans-serif;
+}
